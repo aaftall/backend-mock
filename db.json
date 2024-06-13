@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Bob",
+      "description": "Module 2 project - Integrate a React app with backend.",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "username": "Alex",
+      "description": "Create a full-stack application using MERN stack.",
+      "userId": 1
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "projectId": 1,
+      "description": "Use Vite to create a basic React app"
+    },
+    {
+      "id": 2,
+      "projectId": 1,
+      "description": "Install React Router and setup routes"
+    },
+    {
+      "id": 3,
+      "projectId": 2,
+      "description": "Create a form with 5 input fields"
+    }
+  ],
+  "boardgames": [
+    { "id": 1, "name": "Zombicide" },
+    { "id": 2, "name": "Everdale" },
+    { "id": 3, "name": "Catan" },
+    { "id": 4, "name": "D&D" }
+  ]
+}
