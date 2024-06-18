@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "title": "My first tasks",
+      "title": "My second tasks",
       "description": "Install React Router and setup routes",
       "dueDate": "20/06/2024",
       "priority": "Tier 1",
@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "title": "My first tasks",
+      "title": "My third tasks",
       "description": "Create a form with 5 input fields",
       "dueDate": "20/06/2024",
       "priority": "Tier 1",
