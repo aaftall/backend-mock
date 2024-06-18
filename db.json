@@ -6,7 +6,8 @@
       "description": "Click on the checkbox to complete your first task. Completed task will appear at the bottom of the list.",
       "dueDate": "20/06/2024",
       "priority": "Tier 1",
-      "tags": ["Ops", "Finance"]
+      "tags": ["Ops", "Finance"],
+      "done": "No"
     },
     {
       "id": 2,
@@ -14,15 +15,44 @@
       "description": "Install React Router and setup routes",
       "dueDate": "20/06/2024",
       "priority": "Tier 1",
-      "tags": ["Ops", "Finance"]
+      "tags": ["Ops", "Finance"],
+      "done": "No"
     },
     {
       "id": 3,
+      "title": "My third tasks task task task",
+      "description": "Create a form with 5 input fields",
+      "dueDate": "20/06/2024",
+      "priority": "Tier 1",
+      "tags": ["Ops", "Finance"],
+      "done": "Yes"
+    },
+    {
+      "id": 4,
       "title": "My third tasks",
       "description": "Create a form with 5 input fields",
       "dueDate": "20/06/2024",
       "priority": "Tier 1",
-      "tags": ["Ops", "Finance"]
+      "tags": ["Ops", "Finance"],
+      "done": "Yes"
+    },
+    {
+      "id": 5,
+      "title": "My third tasks",
+      "description": "Create a form with 5 input fields",
+      "dueDate": "20/06/2024",
+      "priority": "Tier 1",
+      "tags": ["Ops", "Finance"],
+      "done": "Yes"
+    },
+    {
+      "id": 6,
+      "title": "My third tasks",
+      "description": "Create a form with 5 input fields",
+      "dueDate": "20/06/2024",
+      "priority": "Tier 1",
+      "tags": ["Ops", "Finance"],
+      "done": "Yes"
     }
   ]
 }
