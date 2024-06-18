@@ -2,8 +2,8 @@
   "tasks": [
     {
       "id": 1,
-      "title": "My first tasks",
-      "description": "Use Vite to create a basic React app",
+      "title": "Your first task",
+      "description": "Click on the checkbox to complete your first task. Completed task will appear at the bottom of the list.",
       "dueDate": "20/06/2024",
       "priority": "Tier 1",
       "tags": ["Ops", "Finance"]
