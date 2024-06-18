@@ -1,39 +1,28 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "username": "Bob",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
-    },
-    {
-      "id": 2,
-      "username": "Alex",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
   "tasks": [
     {
       "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
+      "title": "My first tasks",
+      "description": "Use Vite to create a basic React app",
+      "dueDate": "20/06/2024",
+      "priority": "Tier 1",
+      "tags": ["Ops", "Finance"]
     },
     {
       "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "title": "My first tasks",
+      "description": "Install React Router and setup routes",
+      "dueDate": "20/06/2024",
+      "priority": "Tier 1",
+      "tags": ["Ops", "Finance"]
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "title": "My first tasks",
+      "description": "Create a form with 5 input fields",
+      "dueDate": "20/06/2024",
+      "priority": "Tier 1",
+      "tags": ["Ops", "Finance"]
     }
-  ],
-  "boardgames": [
-    { "id": 1, "name": "Zombicide" },
-    { "id": 2, "name": "Everdale" },
-    { "id": 3, "name": "Catan" },
-    { "id": 4, "name": "D&D" }
   ]
 }
