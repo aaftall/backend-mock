@@ -5,7 +5,7 @@
       "title": "Your first task",
       "description": "Click on the checkbox to complete your first task. Completed task will appear at the bottom of the list.",
       "dueDate": "2024-06-21",
-      "priority": "Tier 1",
+      "priority": "Urgent",
       "tags": ["Ops"],
       "done": "No"
     },
@@ -14,7 +14,7 @@
       "title": "Push new feature to prod",
       "description": "Finish to code the feature. Install React Router and setup routes & push it to prod",
       "dueDate": "2024-06-21",
-      "priority": "Tier 1",
+      "priority": "Low",
       "tags": ["Tech"],
       "done": "No"
     },
@@ -23,7 +23,7 @@
       "title": "Pay accountant",
       "description": "Create a form with 5 input fields",
       "dueDate": "2024-06-22",
-      "priority": "Tier 1",
+      "priority": "Urgent",
       "tags": ["Finance"],
       "done": "No"
     }
